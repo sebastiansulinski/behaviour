@@ -1,4 +1,4 @@
-export class Behaviour {
+export default class Behaviour {
   run(method, instance, data) {
     this.instance = instance;
     this.data = data;
