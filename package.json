@@ -1,6 +1,7 @@
 {
   "name": "@ssdcode/behaviour",
   "version": "0.1.3",
+  "deprecated": "This package is deprecated and no longer maintained.",
   "description": "Class with a set of methods representing post form submission behaviour",
   "main": "./src/index.js",
   "scripts": {
